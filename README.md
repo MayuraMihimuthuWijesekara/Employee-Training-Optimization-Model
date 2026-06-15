@@ -35,6 +35,8 @@ Each department incurs distinct training delivery costs per hour, formalized as 
 | **Production** | \$120.00 | $D_{Pro}$ |
 | **Supply Chain** | \$180.00 | $D_{Sup}$ |
 
+> 📂 **Download the Full Dataset:** [Click here to download the Excel Dataset](Employee_Training_Impact_Dataset.xlsx)
+
 ---
 
 ## 2. Methodology and Statistical Analysis
@@ -63,6 +65,9 @@ Since the calculated test value vastly exceeds the table value ($58.33 > 1.962$)
 
 **Conclusion:** This training program has contributed significantly to increasing the performance scores of employees.
 
+#### Performance Score Difference Distribution
+![Histogram of Marks Difference](Histogram.png)
+
 ---
 
 ## 3. Predictive Modeling
@@ -81,6 +86,16 @@ $$Y = 5.136(D_{IT}) + 9.288(D_{HRM}) + 2.729(D_{Mar}) + 4.312(D_{Pro}) + 6.650(D
 * **Model Fit:** The Adjusted $R^2$ value of 0.994 indicates that approximately 99.4% of the total variance in the Number of Training Hours is successfully explained by the independent variables included in the model, demonstrating an excellent fit.
 * **Overall Significance:** The ANOVA test results reveal that the overall regression model is highly statistically significant, with $F(9, 990) = 17418.216$ and $p < 0.005$, confirming the mathematical validity of the quadratic framework.
 * **Predictor Significance:** According to the Coefficients table, all individual independent variables and interactive terms are highly statistically significant with $p < 0.005$, confirming that each predictor contributes uniquely to the estimation.
+
+#### SPSS Non-Linear Model Outputs
+![SPSS Non-Linear Outputs](SPSS output1.1 .png)
+
+#### SPSS Non-Linear Model Outputs
+![SPSS Non-Linear Outputs](SPSS_output1.2.png)
+
+#### SPSS Non-Linear Model Outputs
+![SPSS Non-Linear Outputs](spss_output1.png)
+
 
 ### 3.2 Linear Estimation of Incremental Revenue
 The linear expansion of added organizational revenue ($R(A)$) as a function of final competencies was calculated using ordinary least squares (OLS) regression.
