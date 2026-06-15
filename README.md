@@ -94,7 +94,7 @@ $$Y = 5.136(D_{IT}) + 9.288(D_{HRM}) + 2.729(D_{Mar}) + 4.312(D_{Pro}) + 6.650(D
 ![SPSS Non-Linear Outputs](SPSS_output1.2.png)
 
 #### SPSS Non-Linear Model Outputs
-![SPSS Non-Linear Outputs](spss_output1.png)
+![SPSS Non-Linear Outputs](SPSS_output1.3.png)
 
 
 ### 3.2 Linear Estimation of Incremental Revenue
