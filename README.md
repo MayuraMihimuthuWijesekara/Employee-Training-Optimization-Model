@@ -112,6 +112,15 @@ $$R(A) = 1531.788(D_{IT}) - 5071.891(D_{HRM}) + 6080.682(D_{Mar}) + 695.641(D_{P
 * **Overall Significance:** The ANOVA test results reveal that the overall regression model is highly statistically significant, with $F(7, 993) = 10843.075$ and $p < 0.005$, confirming that the constructed linear model provides a valid prediction of extra revenue.
 * **Predictor Significance:** According to the Coefficients table, individual independent variables (except the $D_{Pro}$ variable which has a marginal significance of $p = 0.072$) are highly statistically significant with $p < 0.005$.
 
+#### SPSS Linear Model Outputs
+![SPSS Linear Outputs](spss_output2.png)
+
+#### SPSS Linear Model Outputs
+![SPSS Linear Outputs](spss_output2.png)
+
+#### SPSS Linear Model Outputs
+![SPSS Linear Outputs](spss_output2.png)
+
 ---
 
 ## 4. Optimization Engine: Profit Maximization
