@@ -113,13 +113,13 @@ $$R(A) = 1531.788(D_{IT}) - 5071.891(D_{HRM}) + 6080.682(D_{Mar}) + 695.641(D_{P
 * **Predictor Significance:** According to the Coefficients table, individual independent variables (except the $D_{Pro}$ variable which has a marginal significance of $p = 0.072$) are highly statistically significant with $p < 0.005$.
 
 #### SPSS Linear Model Outputs
-![SPSS Linear Outputs](spss_output2.png)
+![SPSS Linear Outputs](SPSS_output2.1.png)
 
 #### SPSS Linear Model Outputs
-![SPSS Linear Outputs](spss_output2.png)
+![SPSS Linear Outputs](SPSS_output2.2.png)
 
 #### SPSS Linear Model Outputs
-![SPSS Linear Outputs](spss_output2.png)
+![SPSS Linear Outputs](SPSS_output2.3.png)
 
 ---
 
