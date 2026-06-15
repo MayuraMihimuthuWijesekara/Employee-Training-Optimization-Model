@@ -88,7 +88,7 @@ $$Y = 5.136(D_{IT}) + 9.288(D_{HRM}) + 2.729(D_{Mar}) + 4.312(D_{Pro}) + 6.650(D
 * **Predictor Significance:** According to the Coefficients table, all individual independent variables and interactive terms are highly statistically significant with $p < 0.005$, confirming that each predictor contributes uniquely to the estimation.
 
 #### SPSS Non-Linear Model Outputs
-![SPSS Non-Linear Outputs](SPSS output1.1 .png)
+![SPSS Non-Linear Outputs](SPSS_output1.1.png)
 
 #### SPSS Non-Linear Model Outputs
 ![SPSS Non-Linear Outputs](SPSS_output1.2.png)
